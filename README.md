@@ -1,2 +1,3 @@
 # secretaria-facedi-v2.0
- Versão 2.0 do site da Secretaria da Faculdade de Educação de Itapipoca - FACEDI.
+* Versao 2.0 do site
+* Foram utilizadas a seguintes tecnologias: HTML5, CSS3, Javascript e Bootstrap4
