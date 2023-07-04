@@ -10947,6 +10947,9 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
+
+  text-shadow: 2px 2px 10px black;
+
   background-image: url("../assets/img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
